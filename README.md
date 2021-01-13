@@ -1,4 +1,4 @@
-# 19-CNN-model-for-CIFAR10-Images
+CNN-model-for-CIFAR10-Images
 
 In this notebook, we train a **CNN** to classify images from the CIFAR-10 database.
 
